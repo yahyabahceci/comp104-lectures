@@ -33,5 +33,6 @@ int main() {
     sum_of_digit(n);
     the_greatest_number(n);
 
+    return 0;
 }
 

@@ -21,4 +21,6 @@ int main() {
 
     double result = (double)sum / count;
     printf("The average of the numbers equal to %f",result);
+
+    return 0;
 }
